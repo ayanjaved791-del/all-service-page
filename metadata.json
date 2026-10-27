@@ -1,0 +1,6 @@
+{
+  "name": "six2eight - Digital Product Design & Web Development Services",
+  "description": "Pixel-perfect clone of six2eight.com/our-services featuring UI/UX design, web development, SaaS product design, strategy, client reviews, and full navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
